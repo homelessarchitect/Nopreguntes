@@ -1,0 +1,8 @@
+name: no_preguntes
+
+packages:
+  - packages/*
+
+command:
+  bootstrap:
+    usePubspecOverrides: true
